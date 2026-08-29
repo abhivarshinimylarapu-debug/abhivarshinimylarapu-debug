@@ -65,7 +65,7 @@ An interactive and responsive dashboard application for managing and viewing ref
 **Email:** `admin@example.com`  
 **Password:** `admin123`
 
-🌐 **[Live Demo](https://referral-dashboard-e0o8ucvy6-mylarapu-s-projects.vercel.app)**
+🌐 **[Live Demo](https://referral-dashboard-e0o8ucvy6-mylarapu-abhivarshini-s-projects.vercel.app)**
 
 💻 **[Source Code](https://github.com/abhivarshinimylarapu-debug/Referral-Dashboard)**
 
