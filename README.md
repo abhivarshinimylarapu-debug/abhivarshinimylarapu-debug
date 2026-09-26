@@ -50,7 +50,7 @@ A responsive task management web application built with React.js and JavaScript.
 **Email:** `sara@example.com`  
 **Password:** `user123`
 
-🌐 **[Live Demo](https://task-manager-8ppm9f9de-mylarapu-abhivarshini-s-projects.vercel.app)**
+🌐 **[Live Demo](https://task-manager-one-tan-30.vercel.app)**
 
 💻 **[Source Code](https://github.com/abhivarshinimylarapu-debug/Task---Manager)**
 
